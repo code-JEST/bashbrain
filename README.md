@@ -38,8 +38,6 @@ bashbrain/
 ├── prepare_data.py    # Downloads and cleans the bash dataset
 ├── train.py           # Trains the model and saves weights
 ├── app.py             # Streamlit web app
-├── model.pkl          # Trained model weights
-└── vocab.pkl          # Character vocabulary
 ```
 
 ## Getting started
