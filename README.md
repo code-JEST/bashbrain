@@ -65,19 +65,6 @@ Training takes around 5–15 minutes depending on your machine.
 streamlit run app.py
 ```
 
-## Example output
-
-```
-Input:   find . -name
-Output:  find . -name "*.txt" -type f
-
-Input:   grep -r
-Output:  grep -r "pattern" /path/to/dir
-
-Input:   tar -
-Output:  tar -czf archive.tar.gz folder/
-```
-
 ## What I learned
 
 Through this project I gained practical experience with:
